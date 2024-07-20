@@ -1,0 +1,11 @@
+# Editor config
+.editorconfig
+
+# Mac OS finder files
+**/.DS_Store
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+
+# Build artifacts
+dist/
